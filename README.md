@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=liquiid727&theme=minimal" />
 </div>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
