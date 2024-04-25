@@ -15,8 +15,11 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=liquiid727&theme=minimal" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=liquiid727&theme=tokyo-night" />
 </div>
+
+
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
