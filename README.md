@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @liquiid727
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
@@ -14,14 +8,12 @@
 <span>  </span>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=liquiid727&theme=tokyo-night" />
-</div>
-
-
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+</div>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=liquiid727&theme=tokyo-night" />
 </div>
 
 <!---
