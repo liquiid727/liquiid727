@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liquiid727 
-- I am currently creating game data hub.
+- 现居杭州，原来前端开发和产品PM,现在转向AGI方向
 
 
 
