@@ -8,7 +8,7 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
-
+ 
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
@@ -16,6 +16,13 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=liquiid727&theme=tokyo-night" />
 </div>
+
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liquiid727)
 
 <!---
 liquiid727/liquiid727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
